@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there 👋, I'm Anas braiek
 
-<!--
-**Anasbk1/Anasbk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer with a passion for learning and implementing new technologies. I love building interesting and innovative applications.
 
-Here are some ideas to get you started:
+## 🌱 What I'm currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Deepening my knowledge of React.js and Node.js
+- Exploring cloud technologies like AWS and Google Cloud
+
+## 🔭 What I'm working on
+
+- Working on a real-time chat application using Socket.IO
+- Building a my portfolio
+
+## 📫 How to reach me
+
+- LinkedIn: linkedin.com/in/anas-braiek
+- Email: anasbraiek@gmail.com
+
+
+
+
